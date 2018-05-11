@@ -14,7 +14,7 @@ ML.NET 是一个免费的、开源的、跨平台的机器学习框架，使您�
 
 ML.NET 指南有几个部分。您可以按顺序阅读它们，当然，您也可以直接跳到您最感兴趣的部分。
 
-**[教程](https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/index)**
+**[教程](https://github.com/Quorafind/MLNET-CN/blob/master/Tutorials/Introduction.md)**
 
 这是一个分步教程，旨在指导您在常见开发场景中构建自定义机器学习模型。
 
