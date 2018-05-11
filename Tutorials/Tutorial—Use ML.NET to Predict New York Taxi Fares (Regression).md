@@ -1,6 +1,6 @@
 # 教程：使用ML.NET预测纽约出租车票价（回归）
 
-本教程演示了您该如何使用ML.NET构建预测纽约市出租车票价的[回归模型](https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/glossary#regression)。 
+本教程演示了您该如何使用ML.NET构建预测纽约市出租车票价的[回归模型](https://github.com/Quorafind/MLNET-CN/blob/master/Resources/Machine%20learning%20glossary.md#%E5%9B%9E%E5%BD%92)。 
 
 在本教程中，您将学习如何：
 
@@ -25,7 +25,7 @@
 
 ## 选择适当的机器学习任务
 
-为了预测出租车费用，您首先选择适当的机器学习任务。您正在根据数据集中的其他因素预测真实价值（双倍于价格）。所以，您决定选择一个[**回归**](https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/glossary#regression)任务。
+为了预测出租车费用，您首先选择适当的机器学习任务。您正在根据数据集中的其他因素预测真实价值（双倍于价格）。所以，您决定选择一个[**回归**](https://github.com/Quorafind/MLNET-CN/blob/master/Resources/Machine%20learning%20glossary.md#%E5%9B%9E%E5%BD%92)任务。
 
 训练模型的过程确定数据集中的哪些因素对预测最终票价影响最大。
 
