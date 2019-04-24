@@ -4,6 +4,12 @@ ML.NET 是一个免费的、开源的、跨平台的机器学习框架，使您�
 
 和ML.NET有关的更多信息，请参阅 .NET 博客中的 [ML.NET 介绍：跨平台、已验证过并且开源的机器学习框架](https://blogs.msdn.microsoft.com/dotnet/2018/05/07/introducing-ml-net-cross-platform-proven-and-open-source-machine-learning-framework/)
 
+## 注意
+
+目前版本为 0.11 ，此文档停留在 0.03 阶段前。因此部分信息已经更改，建议直接去微软的 ML.NET 官网查看更新的教程：[ML.NET](https://docs.microsoft.com/zh-cn/dotnet/machine-learning/what-is-mldotnet)
+
+若无意外，这个仓库会在正式版更新前后进行大更新。
+
 ## 开始
 
 要开始使用 ML.NET ，请查看 [Iris Petal Prediction 快速入门](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet/get-started)或更深入的[教程](https://github.com/Quorafind/MLNET-CN/blob/master/Tutorials/Introduction.md)。
@@ -30,13 +36,7 @@ ML.NET 指南有几个部分。您可以按顺序阅读它们，当然，您也�
 
 最后更新于 2018/05/12
 
-将保持与官网一并的更新。
-
-
-
-TODO：
-
-- [ ] ML.API 翻译
+~~将保持与官网一并的更新~~
 
 
 
